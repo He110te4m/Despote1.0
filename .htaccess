@@ -1,6 +1,8 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
+    ErrorDocument 404 /404.html
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule ^(.*)$ index.php?request=$1 [QSA,NC,L]
+    RewriteRule ^(.*)$ index.php?$1 [PT,L]
+    # RewriteRule ^(.*)$ index.php?request=$1 [QSA,NC,L]
 </IfModule>

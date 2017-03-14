@@ -4,8 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>数智实验室管理</title>
+    <title>数智科技</title>
     <link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
+    <script src="lib/bootstrap/js/jquery.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/layer/layer.js"></script>
 </head>
 <body style="padding-top: 70px;">
     <!-- 页面导航栏开始 -->
@@ -13,7 +16,7 @@
         <div class="container">
             <div class="navbar-header">
                 <div class="navbar-brand">
-                    <small class="glyphicon glyphicon-fire"></small>&nbsp;数智实验室管理
+                    <small class="glyphicon glyphicon-fire"></small>&nbsp;数智科技
                 </div>
             </div>
 
@@ -47,26 +50,12 @@
     <!-- 页面导航栏结束 -->
     <div class="container">
         <?php
-            if (!isset($_GET['request'])) {
-                include 'view/home.php';
-            } else if ($_GET['request'] == 'home') {
-                include 'view/home.php';
-            } else if ($_GET['request'] == 'resource') {
-                include 'view/resource.php';
-            } else if ($_GET['request'] == 'management') {
-                include 'view/management.php';
-            } else if ($_GET['request'] == 'user') {
-                include 'view/user.php';
-            } else if ($_GET['request'] == 'call') {
-                include 'view/call.php';
-            } else if ($_GET['request'] == 'login') {
-                include 'view/login.php';
-            } else {
-                include '404.html';
-            }
+            require '\core\rotate.class.php';
+            $url = \rotate\Rotate::getAddr();
+            include "view/$url.php";
+            // isset($_GET['request']) ? $avg = $_GET['request'] : $avg = 'home';
+            // include "view/$avg.php";
         ?>
     </div>
-    <script type="text/javascript" src="lib/bootstrap/js/jquery.min.js"></script>
-    <script type="text/javascript" src="lib/bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>
