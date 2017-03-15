@@ -50,9 +50,14 @@
     <!-- 页面导航栏结束 -->
     <div class="container">
         <?php
-            require '\core\rotate.class.php';
-            $url = \rotate\Rotate::getAddr();
-            include "view/$url.php";
+            require 'core/rotate.php';
+            $url = \core\Rotate::getAddr();
+            echo $url;
+            if (!$url) {
+                include 'view/home.php';
+            } else {
+                include "view/$url.php";
+            }
             // isset($_GET['request']) ? $avg = $_GET['request'] : $avg = 'home';
             // include "view/$avg.php";
         ?>
