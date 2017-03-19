@@ -5,10 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>数智科技</title>
-    <link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
-    <script src="lib/bootstrap/js/jquery.min.js"></script>
-    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
-    <script src="lib/layer/layer.js"></script>
+    <link rel="stylesheet" type="text/css" href="/lib/bootstrap/css/bootstrap.min.css">
+    <script src="/lib/bootstrap/js/jquery.min.js"></script>
+    <script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/lib/layer/layer.js"></script>
 </head>
 <body style="padding-top: 70px;">
     <!-- 页面导航栏开始 -->
@@ -25,8 +25,7 @@
                 <!-- 第一个导航按钮样式有 BUG，使用虚列避开 BUG -->
                 <li><a href="#"></a></li>
                 <li><a href="/home"><small class="glyphicon glyphicon-home"></small>&nbsp;&nbsp;首页</a></li>
-                <!-- <li><a href="#">心得笔记</a></li> -->
-                <li><a href="/resource"><small class="glyphicon glyphicon-duplicate"></small>&nbsp;&nbsp;资源分享</a></li>
+                <li><a href="/resource"><small class="glyphicon glyphicon-duplicate"></small>&nbsp;&nbsp;心得笔记</a></li>
                 <?php
                     if (isset($_COOKIE['sid'])) {
                         echo '<li><a href="/management"><small class="glyphicon glyphicon-list-alt"></small>&nbsp;&nbsp;物资管理</a></li>';

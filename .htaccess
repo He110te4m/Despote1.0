@@ -1,8 +1,25 @@
 <IfModule mod_rewrite.c>
-    RewriteEngine On
-    ErrorDocument 404 /404.html
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule ^(.*)$ index.php?$1 [PT,L]
-    # RewriteRule ^(.*)$ index.php?request=$1 [QSA,NC,L]
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ index.php?/$1 [QSA,PT,L]
 </IfModule>
+
+
+# <IfModule mod_rewrite.c>
+#     RewriteEngine On
+
+#     #路由规则，除了*.php static robots.txt 以外的所有请求
+#     RewriteCond $1 !^([a-z]+\.php|static|robots\.txt|uploads|unionhotel)
+
+#     #路由默认的首页
+#     RewriteRule ^()?$ index.php?%{QUERY_STRING} [L]
+
+#     #路由某些特殊的规则，这里是以beta开头的规则
+#     RewriteRule ^(beta)/(.+)?$ $1.php/$2?%{QUERY_STRING} [L]
+
+#     #路由其余的请求
+#     RewriteCond $1 !^([a-z]+\.php|static|robots\.txt|uploads|betasns|unionhotel)
+#     RewriteRule ^([a-z]+)/(.+)?$ index.php/$1/$2?%{QUERY_STRING} [L]
+#     RewriteRu le ^([a-z]+)?$ index.php/$1?%{QUERY_STRING} [L]
+# </IfModule>
