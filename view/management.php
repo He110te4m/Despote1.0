@@ -5,7 +5,7 @@
             <td>项目名称</td>
             <td>收支情况</td>
             <td>经手人</td>
-            <td>时间</td>
+            <td>日期</td>
         </tr>
         <?php
         /**
@@ -44,10 +44,10 @@
         while ($row = mysqli_fetch_array($item)) {
             echo "<tr>";
             echo "<td>" . $row['Id'] . "</td>";
-            echo "<td>" . $row['name'] . "</td>";
+            echo "<td>" . $row['item'] . "</td>";
             echo "<td>" . $row['io'] . "</td>";
-            echo "<td>" . $row['handle'] . "</td>";
-            echo "<td>" . $row['time'] . "</td>";
+            echo "<td>" . $row['itemname'] . "</td>";
+            echo "<td>" . $row['add_date'] . "</td>";
             echo "</tr>";
         }
         ?>

@@ -1,0 +1,1110 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"c",
+				"click〔function〕"
+			],
+			[
+				"get",
+				"getElementsByName〔function〕"
+			],
+			[
+				"bt",
+				"button\tTag"
+			],
+			[
+				"col",
+				"col-sm-2"
+			],
+			[
+				"form",
+				"form_hidden"
+			],
+			[
+				"if",
+				"iframe\tTag"
+			],
+			[
+				"ite",
+				"itemname"
+			],
+			[
+				"sql",
+				"$sql_db〔variable〕"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"col-",
+				"col-md-3"
+			],
+			[
+				"s",
+				"readyState〔variable〕"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"on",
+				"onreadystatechange〔variable〕"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"mysqli_c",
+				"mysqli_connect〔function〕"
+			],
+			[
+				"con",
+				"$contain〔variable〕"
+			],
+			[
+				"re",
+				"responseText"
+			],
+			[
+				"mysqli",
+				"mysqli_query〔function〕"
+			],
+			[
+				"Ac",
+				"ActiveXObject(\"Msxml2.XMLHTTP.3.0"
+			],
+			[
+				"nav",
+				"nav-stacked"
+			],
+			[
+				"pan",
+				"panel-body"
+			],
+			[
+				"panel-",
+				"panel-collapse"
+			],
+			[
+				"_",
+				"$_COOKIE〔variable〕"
+			],
+			[
+				"_co",
+				"$_COOKIE〔variable〕"
+			],
+			[
+				"_c",
+				"$_COOKIE〔variable〕"
+			],
+			[
+				"user",
+				"$username〔variable〕"
+			],
+			[
+				"my",
+				"mysqli_query"
+			],
+			[
+				"mysq",
+				"mysql_close〔function〕"
+			],
+			[
+				"us",
+				"$userName〔variable〕"
+			],
+			[
+				"sq",
+				"$sql_pwd〔variable〕"
+			],
+			[
+				"_s",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"pa",
+				"$password〔variable〕"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_assoc〔function〕"
+			],
+			[
+				"req",
+				"require〔keyword〕"
+			],
+			[
+				"mys",
+				"mysql_connect〔function〕"
+			],
+			[
+				"is_n",
+				"is_null〔function〕"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"b",
+				"bootstrap"
+			],
+			[
+				"btn",
+				"btn-lg"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"incl",
+				"include〔keyword〕"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"inc",
+				"include〔keyword〕"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"gl",
+				"glyphicon"
+			],
+			[
+				"mysql",
+				"mysql.cnf"
+			],
+			[
+				"ap",
+				"apache2"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"SSL",
+				"SSLCertificateFile"
+			],
+			[
+				"htt",
+				"httpd-ssl.conf"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"ho",
+				"homePageUrl"
+			],
+			[
+				"te",
+				"$text〔variable〕"
+			],
+			[
+				"uns",
+				"unset〔function〕"
+			],
+			[
+				"str",
+				"strict"
+			],
+			[
+				"appl",
+				"application"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"view",
+				"view('lst"
+			],
+			[
+				"CI_Con",
+				"CI_Controller〔class〕"
+			],
+			[
+				"de",
+				"defined"
+			],
+			[
+				"1",
+				"10000"
+			],
+			[
+				"dr",
+				"dropdown-menu"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"co",
+				"control-label"
+			],
+			[
+				"fo",
+				"form-control"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"id",
+				"id=〔attribute〕"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"la",
+				"layer"
+			],
+			[
+				"se",
+				"server"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"conte",
+				"$contents〔variable〕"
+			],
+			[
+				"por",
+				"poetry"
+			],
+			[
+				"ca",
+				"case"
+			],
+			[
+				"最佳",
+				"最佳："
+			],
+			[
+				"k",
+				"keys"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"he",
+				"he110.top"
+			],
+			[
+				"other",
+				"others"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"不设置",
+				"不支持设置宽高"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"代码",
+				"代码中的换行会解析为空格"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"C",
+				"CirQueue"
+			],
+			[
+				"Cho",
+				"children〔function〕"
+			],
+			[
+				"sl",
+				"slider_ctrl"
+			],
+			[
+				"cre",
+				"createElement〔function〕"
+			],
+			[
+				"im",
+				"imgs"
+			],
+			[
+				"ch",
+				"children〔function〕"
+			],
+			[
+				"sli",
+				"slider_main_block"
+			],
+			[
+				"js",
+				"js_box"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"span",
+				"span.slider-ctrl-prev+s"
+			],
+			[
+				"css",
+				"css_box"
+			],
+			[
+				"class",
+				"class=\"tonext"
+			],
+			[
+				"R",
+				"R1+R2)*U，U2"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"rea",
+				"rear+1)%QueueSize"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pcip",
+		"selected_items":
+		[
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"formatephp",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"php",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"p",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"ma",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Class"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"remop",
+				"Package Control: Remove Package"
+			],
+			[
+				"space",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"Markdown P",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Markdown",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"PackageResourceViewer",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PCI",
+				"Package Control: Install Package"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ci",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:Install",
+				"Package Control: Install Package"
+			],
+			[
+				":pic",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 251.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/wwwroot/view/manage-add.php",
+		"/E/TransServer.java",
+		"/E/TransClient.java",
+		"/D/wwwroot/view/foot.php",
+		"/D/wwwroot/view/head.php",
+		"/C/Users/Administrator/Desktop/manage-admin.htm",
+		"/C/Users/Administrator/Desktop/http _localhost_view_manage-admin.php.htm",
+		"/D/wwwroot/view/management.php",
+		"/D/wwwroot/index.php",
+		"/D/wwwroot/view/home.php",
+		"/D/wwwroot/view/write.php",
+		"/C/Users/Administrator/Desktop/AJAX.md",
+		"/D/WEB/FrameWork/BootStrap/form.html",
+		"/D/wwwroot/view/login.php",
+		"/D/wwwroot/view/user.php",
+		"/C/Users/Administrator/Desktop/temp.txt",
+		"/D/wwwroot/view/project-all.php",
+		"/D/wwwroot/view/project-mine.php",
+		"/D/wwwroot/view/project-add.php",
+		"/D/wwwroot/view/article-admin.php",
+		"/D/wwwroot/view/article-add.php",
+		"/D/wwwroot/view/manage-change.php",
+		"/D/wwwroot/view/user-del.php",
+		"/D/wwwroot/view/user-info.php",
+		"/D/wwwroot/view/user-add.php",
+		"/C/Users/Administrator/Desktop/新建文件夹/index.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/pages.php",
+		"/C/Users/Administrator/Desktop/新建文件夹/ajaxPager.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/connect.php",
+		"/C/Users/Administrator/Desktop/新建文件夹/food.sql",
+		"/D/wwwroot/test.html",
+		"/D/WEB/FrameWork/BootStrap/readme.md",
+		"/D/wwwroot/core/test.php",
+		"/D/wwwroot/view/layout.php",
+		"/D/wwwroot/core/mysqli.php",
+		"/D/WEB/FrameWork/lying/kernel/Lying.php",
+		"/D/wwwroot/function.php",
+		"/D/wwwroot/view/setting.php",
+		"/D/wwwroot/view/call.php",
+		"/C/Users/Administrator/Desktop/Linux.md",
+		"/D/WEB/FrameWork/BootStrap/Demo.html",
+		"/C/Users/Administrator/Desktop/PHPDoc-class.sublime-snippet",
+		"/C/Users/Administrator/Desktop/php.sublime-snippet",
+		"/D/wwwroot/config.php",
+		"/C/Users/Administrator/Desktop/挑战杯.md",
+		"/D/wwwroot/一线印象/m/login_go.php",
+		"/D/wwwroot/一线印象/m/function.php",
+		"/D/wwwroot/一线印象/m/login.php",
+		"/D/wwwroot/一线印象/web/login.php",
+		"/D/wwwroot/一线印象/web/foot.php",
+		"/D/wwwroot/一线印象/web/index.php",
+		"/D/wwwroot/一线印象/web/beta.php",
+		"/D/wwwroot/一线印象/web/out.php",
+		"/D/wwwroot/一线印象/web/up.php",
+		"/D/wwwroot/一线印象/web/conn.php",
+		"/D/wwwroot/一线印象/web/about.php",
+		"/D/wwwroot/一线印象/index.php",
+		"/C/Users/Administrator/AppData/Local/Temp/7zO8C12E23F/d.php",
+		"/C/Users/Administrator/AppData/Local/Temp/7zO8C112DEF/b.php",
+		"/C/Users/Administrator/AppData/Local/Temp/7zO8C1DF7CF/index.php",
+		"/C/Users/Administrator/Desktop/关于路由分发问题的解决思路.md",
+		"/D/tools/hexo/themes/NexT/_config.yml",
+		"/D/WEB/FrameWork/naples/naples/configs/route.php",
+		"/D/WEB/FrameWork/lying/core/App.php",
+		"/D/WEB/FrameWork/lying/core/Model.php",
+		"/D/WEB/FrameWork/lying/core/Http.php",
+		"/D/WEB/FrameWork/lying/core/Session.php",
+		"/D/WEB/FrameWork/lying/config/database.php",
+		"/D/WEB/FrameWork/fckj/fckj 3.0/Application/install/sql/insert.php",
+		"/D/WEB/FrameWork/fckj/fckj 3.0/Application/install/sql/sqlite.php",
+		"/D/WEB/FrameWork/fckj/fckj 3.0/Application/install/sql/mysql.php",
+		"/D/wwwroot/core/rotate.php",
+		"/D/WEB/FrameWork/naples/index.php",
+		"/D/WEB/FrameWork/lying/core/Router.php",
+		"/D/wwwroot/install.php",
+		"/D/WEB/FrameWork/fckj 1.0/lovefc/app.class.php",
+		"/D/WEB/FrameWork/fckj 3.0/index.php",
+		"/D/WEB/FrameWork/fckj 3.0/lovefc/fckj.php",
+		"/D/WEB/FrameWork/fckj 3.0/lovefc/Run.php",
+		"/D/WEB/FrameWork/fckj 3.0/lovefc/core/Parents.php",
+		"/D/WEB/FrameWork/fckj 3.0/lovefc/Init.php",
+		"/D/wwwroot/application/view/index.php",
+		"/C/Users/Administrator/Desktop/HTML/style.css",
+		"/C/Users/Administrator/Desktop/HTML/left.html",
+		"/D/WEB/FrameWork/fckj 1.0/index.php",
+		"/D/wwwroot/lovefc/Run.php",
+		"/D/wwwroot/lovefc/core/Parents.php",
+		"/D/wwwroot/config/db.php",
+		"/D/wwwroot/core/rotate.class.php",
+		"/D/RmDownloads/fckj-master/lovefc/Init.php",
+		"/D/RmDownloads/lying-master/core/Router.php",
+		"/D/RmDownloads/fckj-master/lovefc/fckj.php",
+		"/D/wwwroot/.htaccess",
+		"/D/RmDownloads/fckj-master/lovefc/core/LoaderClass.php",
+		"/D/RmDownloads/fckj-master/.htaccess",
+		"/D/学校/必修课/电路/电路.md",
+		"/D/wwwroot/view/resource.php",
+		"/D/RmDownloads/fckj-master/index.php",
+		"/D/wwwroot/view/call.html",
+		"/D/wwwroot/404.html",
+		"/C/Users/Administrator/Desktop/HTML/top.html",
+		"/D/tools/hexo/source/_posts/php001.md",
+		"/C/Users/Administrator/Desktop/HTML/all.html",
+		"/D/wwwroot/view/header.html",
+		"/D/tools/hexo/source/404.html",
+		"/D/wwwroot/view/footer.html",
+		"/D/wwwroot/header.html",
+		"/D/RmDownloads/naples_php-master/naples/naples.inc.php",
+		"/D/RmDownloads/naples_php-master/index.php",
+		"/D/wwwroot/func/resource.php",
+		"/D/wwwroot/footer.html",
+		"/D/WEB/CI/system/.htaccess",
+		"/D/wwwroot/func/home.html",
+		"/D/wwwroot/htaccess 学习笔记.md",
+		"/D/wwwroot/team/.htaccess",
+		"/D/wwwroot/team/index.php",
+		"/D/wwwroot/team/func/home.html",
+		"/D/RmDownloads/naples_php-master/.htaccess",
+		"/D/tools/hexo/source/categories/index.md",
+		"/D/tools/hexo/source/guestbook/index.md",
+		"/D/tools/hexo/source/tags/index.md",
+		"/D/tools/hexo/scaffolds/post.md",
+		"/D/tools/hexo/scaffolds/draft.md",
+		"/D/tools/hexo/scaffolds/page.md",
+		"/D/Project/Pocent/index.php",
+		"/D/Project/Pocent/Template/index.php",
+		"/D/RmDownloads/代理/index.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 185.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"obutton",
+			"id",
+			"_POST",
+			";",
+			"name",
+			")",
+			"itemname",
+			"，转换时只转换成员属性，不转换成员方法",
+			"primary",
+			"success",
+			"manage",
+			"list",
+			"isset($_COOKIE['sid'])",
+			"N",
+			"p",
+			"2",
+			"application",
+			"\\",
+			"code_url",
+			"tr",
+			"td",
+			"tr",
+			"6",
+			"xs",
+			"2",
+			"sm",
+			"md",
+			" type=\"text/javascript\"",
+			"links",
+			"10",
+			"Password",
+			"exampleInputPassword1",
+			"exampleInputEmail1",
+			"exampleInputPassword1",
+			"exampleInputEmail1",
+			"    \n",
+			"html",
+			"jpg",
+			"func",
+			"\n                ",
+			"?v=",
+			"v",
+			"正文",
+			"0",
+			".content-wrap",
+			"logo",
+			"size",
+			"post-footer",
+			"footer",
+			"a1",
+			"\\",
+			"/",
+			"\\",
+			"deploy",
+			"link",
+			"h2",
+			"h1",
+			" ",
+			"link",
+			"ava",
+			"author",
+			"he110w",
+			"avatar",
+			"title",
+			"av",
+			"设备",
+			"theme",
+			"头像",
+			"待替换",
+			" ",
+			"*",
+			" ",
+			".",
+			"*",
+			" *",
+			"  ",
+			"y+",
+			". ",
+			"（",
+			" *",
+			">",
+			": ",
+			", ",
+			" ",
+			"*",
+			" * ",
+			" class=\"tips\"",
+			"<label",
+			"D",
+			"3",
+			"A",
+			"a",
+			"A",
+			"CB",
+			"F",
+			"5",
+			"article",
+			"a1",
+			"a",
+			"Day01-HTML-Encode",
+			" *",
+			"p",
+			"&nbsp;",
+			"-",
+			">",
+			" ",
+			"&nbsp;",
+			" ",
+			"Day01-HTML-Encode",
+			"Day01-HTML-Encode.html",
+			"./Day01-HTML-Encode.html",
+			"http",
+			"kx",
+			"1.jpg",
+			"超全局数组",
+			"\"",
+			"`php`",
+			"`PHP`",
+			"`php`",
+			"\"",
+			"`",
+			"\"",
+			"php",
+			"PHP",
+			"php",
+			"PHP",
+			"php",
+			"PHP"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"https://raw.githubusercontent.com/He110te4m/img/master/LAMP",
+			"    ",
+			":&nbsp;",
+			",&nbsp;",
+			"&nbsp;",
+			": ",
+			", ",
+			": ",
+			"System.out.println",
+			"System.out.print",
+			"    ",
+			"",
+			"\n",
+			", ",
+			"    ",
+			"=",
+			"×",
+			"i",
+			"    ",
+			"mysqli_query",
+			"结点",
+			"    ",
+			": ",
+			", ",
+			"    ",
+			", ",
+			": ",
+			", ",
+			": ",
+			", ",
+			"- ",
+			"-",
+			": ",
+			", ",
+			": "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\wwwroot\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

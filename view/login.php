@@ -60,13 +60,13 @@
                 <div class="form-group">
                     <label class="control-label col-md-3" for="username">用户名</label>
                     <div class="col-md-8">
-                        <input type="text" class="form-control" name="username" id="username" placeholder="用户名">
+                        <input type="text" class="form-control" name="username" placeholder="用户名">
                     </div>
                 </div>
                 <div class="form-group">
                     <label class="control-label col-md-3" for="password">密码</label>
                     <div class="col-md-8">
-                        <input type="password" class="form-control" name="password" id="password" placeholder="密码">
+                        <input type="password" class="form-control" name="password" placeholder="密码">
                     </div>
                 </div>
                 <div class="col-sm-offset-3">
