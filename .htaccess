@@ -1,25 +1,15 @@
 <IfModule mod_rewrite.c>
-RewriteEngine on
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.*)$ index.php?url=$1 [QSA,PT,L]
+    RewriteEngine On
+
+    # Èç¹û·ÃÎÊµÄÎÄ¼ş´æÔÚ£¬ÔòÖ±½Ó·ÃÎÊ£¬²»ÖØ¶¨Ïò
+    RewriteCond %{REQUEST_FILENAME} !-f
+    # Èç¹û·ÃÎÊµÄÄ¿Â¼´æÔÚ£¬ÔòÖ±½Ó·ÃÎÊ£¬²»ÖØ¶¨Ïò
+    RewriteCond %{REQUEST_FILENAME} !-d
+
+    # Èç¹û·ÃÎÊµÄÎÄ¼ş»òÄ¿Â¼²»´æÔÚ£¬ÔòÖØ¶¨ÏòËùÓĞÇëÇó
+    # µ½£ºindex.php?url=<PARAMS>¡£
+    # ÀıÈç£ºµ±ÎÒÃÇÇëÇó<ÓòÃû>item/indexÊ±£¬Êµ¼ÊÉÏÊÇ
+    # ÇëÇó<ÓòÃû>index.php?url=item/index£¬ÔÚPHPÖĞ
+    # ÓÃ GET['url'] ¾ÍÄÜÄÃµ½×Ö·û´®item/index
+    RewriteRule ^(.*)$ index.php?url=$1 [PT,L]
 </IfModule>
-
-
-# <IfModule mod_rewrite.c>
-#     RewriteEngine On
-
-#     #è·¯ç”±è§„åˆ™ï¼Œé™¤äº†*.php static robots.txt ä»¥å¤–çš„æ‰€æœ‰è¯·æ±‚
-#     RewriteCond $1 !^([a-z]+\.php|static|robots\.txt|uploads|unionhotel)
-
-#     #è·¯ç”±é»˜è®¤çš„é¦–é¡µ
-#     RewriteRule ^()?$ index.php?%{QUERY_STRING} [L]
-
-#     #è·¯ç”±æŸäº›ç‰¹æ®Šçš„è§„åˆ™ï¼Œè¿™é‡Œæ˜¯ä»¥betaå¼€å¤´çš„è§„åˆ™
-#     RewriteRule ^(beta)/(.+)?$ $1.php/$2?%{QUERY_STRING} [L]
-
-#     #è·¯ç”±å…¶ä½™çš„è¯·æ±‚
-#     RewriteCond $1 !^([a-z]+\.php|static|robots\.txt|uploads|betasns|unionhotel)
-#     RewriteRule ^([a-z]+)/(.+)?$ index.php/$1/$2?%{QUERY_STRING} [L]
-#     RewriteRu le ^([a-z]+)?$ index.php/$1?%{QUERY_STRING} [L]
-# </IfModule>
