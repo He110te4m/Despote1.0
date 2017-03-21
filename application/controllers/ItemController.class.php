@@ -1,5 +1,12 @@
 <?php
+/**
+ * @todo: Controller Demo
+ * @author: He110
+ */
 
+/**
+ * 示例控制器
+ */
 class ItemController extends Controller
 {
     // 首页方法，测试框架自定义DB查询

@@ -1,7 +1,9 @@
 <?php
 /**
- * fastphp框架核心
+ * @todo: 核心框架类
+ * @author: He110
  */
+
 class Core
 {
     // 运行程序

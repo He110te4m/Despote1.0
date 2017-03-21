@@ -1,4 +1,8 @@
 <?php
+/**
+ * @todo: 实例化核心类、定义常量、包含文件
+ * @author: He110
+ */
 
 // 初始化常量
 defined('FRAME_PATH') or define('FRAME_PATH', __DIR__ . '/');

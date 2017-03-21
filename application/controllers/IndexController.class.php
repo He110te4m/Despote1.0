@@ -1,5 +1,10 @@
 <?php
+/**
+ * @todo: 默认 Controller
+ * @author: He110
+ */
 
+// 默认控制器
 class IndexController extends Controller
 {
     public function index()

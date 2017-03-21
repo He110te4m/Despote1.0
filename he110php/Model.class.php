@@ -1,5 +1,12 @@
 <?php
+/**
+ * @todo: Model 基类
+ * @author: He110
+ */
 
+/**
+ * 模型类基类
+ */
 class Model extends Sql
 {
     protected $_model;

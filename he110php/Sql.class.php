@@ -1,5 +1,12 @@
 <?php
+/**
+ * @todo: Sql 操作类
+ * @author: He110
+ */
 
+/**
+ * SQL 操作类，使用 PDO 组件，Model 基类的父类
+ */
 class Sql
 {
     protected $_dbHandle;
