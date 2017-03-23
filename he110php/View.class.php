@@ -29,33 +29,36 @@ class View
     public function render()
     {
         extract($this->variables);
-        $defaultHeader = APP_PATH . 'application/views/header.php';
-        $defaultFooter = APP_PATH . 'application/views/footer.php';
-        $defaultLayout = APP_PATH . 'application/views/layout.php';
+        $defaultHeader = APP_PATH . 'application/views/index/header.php';
+        $defaultFooter = APP_PATH . 'application/views/index/footer.php';
+        $defaultLayout = APP_PATH . 'application/views/index/layout.php';
 
         $controllerHeader = APP_PATH . 'application/views/' . $this->_controller . '/header.php';
         $controllerFooter = APP_PATH . 'application/views/' . $this->_controller . '/footer.php';
         $controllerLayout = APP_PATH . 'application/views/' . $this->_controller . '/' . $this->_action . '.php';
 
         // 页头文件
-        if (file_exists($controllerHeader)) {
-            include $controllerHeader;
-        } else {
-            include $defaultHeader;
-        }
+        // if (file_exists($controllerHeader)) {
+        //     include $controllerHeader;
+        // } else {
+        //     include $defaultHeader;
+        // }
+        include file_exists($controllerHeader) ? $controllerHeader : $defaultHeader;
 
         // 页内容文件
-        if (file_exists($controllerLayout)) {
-            include $controllerLayout;
-        } else {
-            include $defaultLayout;
-        }
+        // if (file_exists($controllerLayout)) {
+        //     include $controllerLayout;
+        // } else {
+        //     include $defaultLayout;
+        // }
+        include file_exists($controllerLayout) ? $controllerLayout : $defaultLayout;
 
         // 页脚文件
-        if (file_exists($controllerFooter)) {
-            include $controllerFooter;
-        } else {
-            include $defaultFooter;
-        }
+        // if (file_exists($controllerFooter)) {
+        //     include $controllerFooter;
+        // } else {
+        //     include $defaultFooter;
+        // }
+        include file_exists($controllerFooter) ? $controllerFooter : $defaultFooter;
     }
 }
