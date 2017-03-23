@@ -23,7 +23,7 @@ project  WEB部署目录
 
 ### 1.克隆代码 ###
 ```sh
-git clone git@github.com:He110te4m/team.git
+git clone git@github.com:He110te4m/He110php.git
 ```
 ### 2.创建数据库 ###
 在数据库中创建名为 project 的数据库，并插入两条记录，命令：
